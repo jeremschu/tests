@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>Ecclesiology</title>
+        <style>
+            .all {
+                background-color: black;
+                color: white;
+                margin: 20px;
+                padding: 20px;
+            }
+            .regular {
+                background-color: rgb(54,100,44);
+                color: white;
+                margin: 20px;
+                padding: 20px;   
+            }
+            .answer{
+                color: black;
+                padding: 2px; 
+                text-align: center;
+            }
+}
+        </style>
+        <script>
+            var everything =["Q","The word ecclesia","Means to call out","Describes the church","Refers to the theology of the end of time","Both A and B","Q","Jesus and his apostles were","Jews","Romans","Gentiles","Both B and C","Q","This apostle Jesus appointed as the leader of the 12 apostles","Stephen ","James","Peter","Paul","Q","The apostle who became the first bishop of the Church in Jerusalem ","Stephen","James","Peter","Paul","Q","The Cristian Pentecost occurred around the year","33 AD","49 AD","70 AD","None of the above","Q","Identify the image of Pentecost which means the Church is for all people","Mighty rushing wind","Speaking in tongues","Tongues of fire above their heads","Temple of the Holy Spirit","Q","The city where Christianity originated","Rome","Antioch","Jerusalem","None of the above","Q","Paul","Specifically spread Christianity among the Gentiles","Began his missionary work from the city of Antioch","was able to communicate the gospel in ways that Gentiles could understand","All the above","None of the above","Q","The city where Peter became bishop","Rome","Antioch","Jerusalem","All of the above","Q","The c' where both Peter and Paul were both martyred","Rome","Antioch","Jerusalem","None of the above","Q","The Holy Spirit leads the Church to","To salvation","To union with God and with each other ","To union with the Universe","All of the above","Q","This term refers to the theology of the end of time","Anamnesis", "Eschatology","Heaven","All the above","Q","Charisms","Are gifts from the Holy Spirit","Are saints in heaven","Build up the Church","All of the above","Both A and C","Q","To say that the Holy Spirit builds up the Church means","The Holy Spirit enables the Church to bring people to communion with God","The Holy Spirit makes the Church holy","The Holy Spirit gives life to the Church","None of the above","Q","To say that the Holy Spirit animates the Church means","The Holy Spirit enables the Church to bring people to communion with God","The Holy Spirit makes the Church holy","The Holy Spirit gives life to the Church","None of the above","Q","To say that the Holy Spirit sanctifies the Church means","The Holy Spirit enables the Church to bring people to communion with God","The Holy Spirit makes the Church holy","The Holy Spirit gives life to the Church","None of the above","Q","To preach the Good News of Christ through words and actions","Evangelization","Ecclesia","Pentecost","None of the above","Q","It is important for Christians to remember they are united with Christ as members of his body because","Jesus is the Head of the Church","they receive their salvation from Christ","Christ has the power to bring new life out of their suffering ","All the above","Q","Which is a true statement about persecution of the early Church?","The Jews persecuted the Church because worshiping Jesus as God was blasphemy.","The Romans persecuted the Church because the Christians\' refusal to worship the Roman gods was treason against the Empire.","Roman persecution against the Church was not constant nor widespread.","All the above","Q","The first Christian martyr was","Stephen","Peter","Paul","James","Q","The goal of the Christian life is to","Be sanctified for heaven","Become a soldier in God's army of angels","Be a sanctimonious follower of Jesus","All of the above","Q","The process of becoming holy and attaining salvation is called","Sanctimonious living","Sainthood","Sanctification ","Silliness","Q","The Church is holy because she is united with __________ who has given her the means of salvation","The saints","Christ","The Bible","None of the above","Q","Assures us that the Church is carrying out Christ\'s mission, despite the failures and sins its members","The magisterium","The Holy Spirit","Ecumenical Councils","Both A and C","Q","To say that the Church is ...a holy nation... called out of darkness into (God's) great light illustrates which image of the Church?","The People of God","Temple of the Holy Spirit","The Body of Christ","The Communion of Saints","Q","Donatism is a false teaching about Christianity that","taught donuts are a better option for Communion than unleavened bread ","believed Christians cannot sin and remain part of the Church","is still around today","both B and C","Q","The Communion of Saints","reminds us that nothing, not even physical death, can separate us from our union with Christ","Is the Church becoming holy on earth, purified in purgatory, and in perfect holiness in heaven.","Are only the saints in heaven","Both A and B","Q","In Catholicism, every teaching about Mary","Is a teaching about Jesus","Is a teaching about the Church\'s relationship with Jesus","Both A and B","None of the above","Q","In Jesus\' mother, Mary, Christians see the promised future for all who are united with Christ. This is expressed in the teaching of","Mary’s bodily assumption into heaven","Mary is the Mother of God","Mary is the Mother of the Church","Mary\'s Immaculate Conception","Q","Which is a reason why the Church gives some women and men the official title of saint?","To hold them up as models of holiness","To inspire Christians to grow in holiness on earth","To remind Christians of the promise of eternal life in heaven","All the above","Q","Because the Church anticipates the second coming of Jesus, the resurrection of the dead, and the fullness of the Kingdom of God to come, it is","an anxious community ","an eschatological community","a preoccupied community","all the above","Q","All baptized Christians","Are equal in dignity","Are the Church","Are called to different vocations","All the above","Q","The hierarchy of the Catholic Church is","The bishops, priests, and deacons","The bishops, cardinals, priests, and deacons","Is led by the pope","Both A and C","Q","The hierarchical structure of the Church","has its origins in how the Emperor Diocletian divided the Roman Empire into East and West","has its origins in how Jesus called twelve apostles to lead his many disciples","has its origins in how Jesus called on of the twelve to lead the other apostles ","both B and C","Q","The successor to Peter","Is the pope","Is the bishop of Rome","Is the leader of Catholic Church\'s hierarchy","All the above","Q","The title pope","Means father","Means bridge builder","Means the vicar of Christ","None of the above","Q","In Catholic ecclesiology, a bishop","Is the leader of a local church","Shares his authority to minister with priests and deacons","Is part of the magisterium ","All of the above","Q","The word deacon literally means","To govern","To teach","To serve","To deconstruct","Q","The Greek word presbyter","Is translated into English as priest","Means elder","Both A and B","None of the above","Q","Declared Christianity a legal and protected religion in the Roman Empire","The Edict of Milan","The Council of Nicea","Diocletian","Constantine","Both A and D","Q","The Council of Nicea occurred in the year","33","313","300","325","Q","In Catholic ecclesiology, a local church is called a","Parish","Deaconate","Diocese","Presbyterate","Q","In Catholic ecclesiology, a bishop","Is the leader of a local church","Shares his authority to minister with priests and deacons","Is part of the magisterium","All of the above","Q","Women in the early Church","Served as deacons","Were ordained as priests and bishops","Held different leadership roles","All the above","both A and C","Q","Phoebe","Was a disciple of Jesus","Was the first to tell the apostles of Jesus\' resurrection","Was a deacon of the Church ","Both A and B","Q","The laity","Refers to Christians who are baptized but not ordained","Includes people in consecrated religious life who are not ordained","Are to witness to God's love in the world","All of the above","Both A and B","Q","The laity's call to lead others by the example of their moral choices and through service describes","The prophetic office of the laity","The kingly office of the laity","The priestly office of the laity","All of the above","Q","The Holy See refers to","A bishop\'s cathedral","A diocese","The faith of the Church","The authority of the Bishop of Rome","Q","The current bishop of Rome, Pope Francis, is a member of the religious congregation known as","The Jesuits","The Society of Jesus","The Franciscans","Both A and B","Q","Holy Family Catholic High School is part of","The Lasallian Institute","The Christian Brothers","The Dominican order","Both A and B","Q","Which is not a vow taken by Christians living as consecrated religious?","Poverty","Obedience","Asceticism","Chastity","Q","Monks","Are women and men who live in monasteries to devote themselves to prayer and work in total  dedication to God.","Practice asceticism","Live a form of consecrated religious life","All the above","Q","Wrote a Rule for monasteries that became very popular in the Catholic Church","Saint Francis","Benedict of Nursia","Scholastica","All the above","Q","Which is true about a Cardinal in the Catholic Church","Serves as an adviser to the pope","Elects the pope's successor after his death or resignation","Is usually a bishop ","All the above","Q","A papal conclave","Is the complex of offices that assist the pope in administering Church affairs. ","Is the process known by which a new pope is selected.","Is a form of asceticism specifically for the Bishop of Rome","All the above","Q","The magisterium","is responsible for preserving and passing on the truths of the apostolic faith","it is the pope in communion with the bishops","is the official teaching authority of the Catholic Church.","All the above","Q","An essential teaching that has been revealed by God and that the Church cannot change","Dogma","Doctrine","Scripture","None of the above","Q","Jesus gave power and authority to his __________ to accomplish their mission.","Disciples ","Apostle","Popes","None of the above","Q","To say that the Church is built on the foundation of the apostles, preserves and hands on the teaching of the apostles, and is led by bishops who are the successors to the apostles, describes the Church as being","One","Holy","Catholic","apostolic","Q","This term means of or pertaining to bishops","Hierarchy","Ecclesial","Episcopal","None of the above","Q","An ecumenical council of the Church","is a gathering of the church's bishops and the pope ","addresses a need in the Church or the world ","all of the above","one of the above","Q","To profess belief in one God maker of heaven and earth, of all things visible and invisible refutes which heresy?","Modalism","Gnosticism","Arianism","None of the above","Q","To profess belief that Jesus is God from God, Light from Light, true God from true God, consubstantial with the Father refutes which Christological heresy?","Docetism","Supernaturalism","Arianism","None of the above","Q","This is a statement of belief and contains statements of dogma:","The Bible","Tradition","Creed","The Liturgy","Q","Which was not part of the criteria used to identify which Christian writings were accepted into the New Testament?","Written by an apostle or someone who knew an apostle", "used in Christian worship","Universality accepted by local churches","Contained correct Christian beliefs","None of the above","Q","Church passes on the Gospel of Christ to future generations through","Tradition","The magisterium","Scripture","The hierarchy of Truths","Both A and C","Q","is creed is recited by Catholics every Sunday","The Sunday Creed","Nicene Creed","Apostle's Creed","None of the above","Q","The Vatican","Refers to the name of a hill outside of the city of Rome","Is where the apostle Peter was buried","Both A and B","None of the above","Q","the mark of ________ to be free to govern itself without outside influence.","One","Holy","Catholic","Apostolic","Q","the mark of ________ to be united with other Christians around the world.","One","Holy","Catholic","Apostolic","Q","the mark of ________ to that its bishops maintain apostolic succession.","One","Holy","Catholic","Apostolic","Q","The source of the Church\'s unity is","Jesus","The unity of the Father, and the Son, and the Holy Spirit","The pope","Both A and C","Q","The movement to restore unity among all Christians is called","Excommunication","Ecumenism","Reformation","None of the above","Q","To say that the Church is catholic means that","It is not Protestant","It has received from Christ the fullness of the means to salvation","It has a mission to all people around the world","Both B and C","Q","He was crowned as the first Holy Roman Emperor on December 25, 800:","Leo the Great","Leo Ill","Constantine","Charlemagne","Q","During the middle ages, the bishop of this city became a rival to the bishop of Rome.","Christiantinople","Antioch","Constantinople","None of the Above","Q","The Lay Investiture Controversy","Was a dispute between popes and kings in the Middle Ages over who could appoint]ocal bishops","Was a struggle for the Church to remain free from secular influence","Still exists in places like China today","All the above","Both A and B","Q","Which is a visible bond of unity in the Catholic Church?","Faith, hope, and love","Common beliefs, common prayers, unity with others","Common liturgy of worship, Common profession of faith in a creed, and apostolic succession of its bishops","None of the above","Q","The first formal break in Christian unity is called the _____________ which occurred between the Western and Eastern Churches in the year ________. ","Filioque controversy, 1000","Filioque controversy, 1054","Great Schism, 1054","Great Schism, 1000","Q","Which does not describe Charlemagne\'s influence on the Church of the Middle Ages?","He defended the papacy from outside influence","He funded schools for clergy","He spread the Christian faith in the lands that he conquered","None of the above","Q","Which of the following is true about the flioque controversy?"," Refers to the insertion of the phrase and the Son into the Nicene Creed by the Pope to protect the dogma of Jesus' divinity","Remains divisive between East and West today due to the question of who has the authority to change a Creed written at a Church council","Both A and B","None of the above","Q","The break in unity between the Churches in the East with the Church in the West was due to","Theological differences","Differences in language","Cultural differences ","All the above","Q","Churches that are in full communion with the Church of Rome","Possess the fullness of the apostolic faith","Recognize the authority of the pope as the visible foundation of the unity of the Church","Share in the fullness of Christ","All the above","Q","Eastern Churches that are in communion with the Bishop of Rome are called","Eastern Orthodox Catholic","Eastern Orthodox Churches","Eastern Catholic Churches","None of the above","Q","At the Diet of Worms","The Pope condemned Ulrich Zwingli","The Holy Roman Emperor condemned John Calvin","Everyone got sick from food poisoning","All the above","None of the above ","Q","This reformer was a Catholic monk and a theologian","Zwingli","Calvin","Luther","Both A and B","Q","The 16th century Protestant reformation","sought to return the Western Church to a more biblical foundation in relation to its belief system, morality, and structures","was the first attempt to reform the Church in the history of Christianity","both A and B","none of the above","Q","This reform movement has its origins in Switzerland ","Lutheran","Reformed","Radical","Both B and C","Q","To challenge the authority of the pope, the Protestant reformers used this as the ultimate authority on matters of Christian faith and practice.","The apocrypha","The Bible","Tradition","None of the above","Q","Written in Latin it was the official Bible of the Catholic Church throughout the Middle Ages and during the 16th century","the Septuagint","the Vulgate","the Apocrypha","None of the above","Q","The Protestant reformers rejected some books of the Old Testament as apocrypha because","They were not included in their current Hebrew Scriptures","They rejected the Traditional use of the Septuagint as the canon of the Old Testament","Both A and B","None of the above","Q","The doctrine of justification","deals with the theological question of how Christian is saved","was divisive between Martin Luther and the Catholic Church in the 16th century due to a misunderstanding of the term justification","Both A and B","None of the above","Q","By saying  _________________________ alone Protestant reformers rejected the importance of good works for a Christian to attain salvation.","Jesus ","Faith","Scripture","Love","Q","The Catholic reform movement in the 16th century was defined and shaped by","The Council of Nicea ","The Diet of Worms ","The Council of Trent","None of the above","Q","Results of the Catholic Reformation include","Removing many of the abuses that originally lay behind the demands of the Protestant reformer","Clarifying doctrines of the Church ","Both A and B","None of the above","Q","Began in Germany","Reformed","Lutheran","Radical","Q","Rejected infant baptism in favor of adult baptism only.","Reformed","Lutheran","Radical","Q","Puritanism is a form of it.","Reformed","Lutheran","Radical","Q","Also known as Calvinism.","Reformed","Lutheran","Radical"];
+            var correct=[4,1,3,2,1,2,3,4,1,1,4,2,5,1,3,2,1,4,4,1,1,3,2,2,1,4,4,3,1,4,2,4,4,4,4,1,4,3,3,5,4,3,4,5,3,4,2,4,4,4,3,4,2,4,2,4,1,2,4,3,3,2,3,3,5,2,3,3,1,4,2,2,2,4,4,3,4,3,3,3,3,4,4,3,5,3,1,4,2,2,3,3,2,3,3,2,3,1,1];
+            var MCProblems=new Array();
+            var TFProblems=new Array();
+            var TFQ=["The term ”church” refers to the entire community of God's people around the world","The effect that persecution and martyrdom had on the early Church was that it encouraged other Christians to remain steadfast in their faith.","Jesus did nothing in his lifetime to institute the Church","God calls individuals to a covenantal relationship with him in a community.","The mission of the apostles was to continue the mission of Christ only among the Jews.","fThe process of canonizing a person as a saint of the Church makes that person a saint in heaven","Sinners cannot be part of a holy Church.","The Christian Church existed before the Christian New Testament was written and defined.","Church doctrines cannot change","Some Christian dogmas are more fundamental to Christian faith and practice that others","In the catholic ecclesiology the doctrine of celibacy for ordained clergy can change","A person's vocation is to learn the secret knowledge of salvation.","In refuting the heresies of their time, the bishops at the Council of Nicaea ultimately appealed to the Church's Tradition.","The dogma of the Holy Trinity teaches that God's nature is love.","Asceticism is the practice of self-discipline to help a person overcome temptation and grow spiritually.","The Catholic Church recognizes the spiritual or moral truths in non-Christian religions.","Jesus did not hope for unity among his followers because he knew that human sinfulness would cause permeant divisions within his Church. ","The 16th century Protestant reformers were not unified in their theologies regarding Christian Matching (part two)—match the correct term to its description or definition","The 16th century reformation was entirely peaceful.","The theological disagreements between Catholics and Lutherans of the 16th century regarding the doctrine of justification remain divisive for the Catholic Church today.","Unity in Catholicism is achieved through enforcing uniformity among all its Churches. ","During the 16th century reformation, individual. Christians were able to decide if their country was to be Catholic or Protestant"];
+            var TFA=[true,true, false,true,false,false,false,true,false,true,true,false,true,true,true,true,false,true,false,false,false,false];
+            var TFY=["","","he preached the good news of the kingdom of God","","it was to continue Christs mission amound all people","it doesnt make saints it recognized God has made them saints","sinners can be apart of the chuch because the holy part of the church comes from God","","doctrines can change dogmas cannot","","","this is what Gnostitism taught which is not what christians believe","","","","", "Jesus hoped and prayed for unity among all of his people","","there were periods of violence between Catholics and protestants","In 1999 the catholics and lutheran Churches said that the differences in justification no longer divided the churches","unity doesnt mean uniformity.  The church is one and wants unity but it also embraces the differences in race, culture, wealth, and class","the king/leader decides what religion the country would be"];
+            function stateChange(){
+                if(document.getElementById("WhichScout").value=="pit scounting"){
+                    document.getElementById("pitScouting").style.visibility='visible';
+                    document.getElementById("standscouting").style.visibility='collapse';
+                }
+                if(document.getElementById("WhichScout").value=="stand scouting"){
+                    document.getElementById("pitScouting").style.visibility='collapse';
+                    document.getElementById("standscouting").style.visibility='visible';
+                }
+                
+            }
+            function MCQuestion(que, ans, cor, num){
+                this.question= que;
+                this.answers=ans;
+                this.correctInd= cor; 
+                this.num=num;
+            }
+            function TFQuestion(que, ans, why, num){
+                this.question= que;
+                this.answers=ans;
+                this.why= why; 
+                this.num=num;
+            }
+            function initialize(){
+                createProblems();
+                
+            }
+            function createProblems(){
+                var question="";
+                var answers= new Array();
+                var correctAns=0;
+                var i=0;
+                var j=0
+                for(i=0; i<everything.length;i++) {
+			         if(everything[i]=="Q" && i!=0){
+                        correctAns=correct[j]
+				        MCProblems.push(new MCQuestion(question,answers,correctAns,j));
+				        answers=[];
+				        question = "";
+                        j++;
+			         }else if(i==0){
+				
+			         }else if(everything[i-1]=="Q") {
+				        question=everything[i];
+			         }else{
+				        answers.push(everything[i]);
+			         }
+                }
+                var why=""
+                for(i=0; i<TFQ.length;i++) {
+                        question=TFQ[i];
+                        answers=TFA[i];
+                        why=TFY[i];
+                        TFProblems.push(new TFQuestion(question,answers,why,j));
+                        j++
+                }
+                //displayQuestions();
+                createDisplay();
+            }
+            
+            function displayQuestions(){
+                var i;
+				var result ="";
+				for(i=0;i<MCProblems.length;i++){
+				result += MCProblems[i].question + " </br>";
+				
+				}
+				document.getElementById('debug').innerHTML =result;
+            }
+            function createDisplay(){
+                var i;
+                var output=""
+                for(i=0;i<MCProblems.length;i++){
+                    output+="<div id='problem"+i+"' class='regular' sytle='  border-width: 10px; border-style: solid;border-color: coral;'>"+MCProblems[i].question+"</br>"
+                    output+="<select id='answers"+i+"'>"
+                    var j
+                    output+="<option value='select'>select</option>";
+                    for(j=0;j<MCProblems[i].answers.length;j++){
+                        output+="<option value='"+MCProblems[i].answers[j]+"'>"+MCProblems[i].answers[j]+"</option>";
+                    }
+                    output+="</select>";
+                    output+="<button type='button"+i+"' onclick='check("+i+")'>Check</button>"
+                   output+="<div id='show"+i+"'style=' width: 100px; display:flex;' class='answer'></div>"
+                    
+                    
+                    output+="</div>";
+                }
+                
+                for(i=0;i<(TFProblems.length);i++){
+                    output+="<div id'problem"+i+"' class='regular' sytle=' border-width: 10px; border-style: solid;border-color: coral;'>"+TFProblems[i].question+"</br>"
+                    output+="<select id='TFanswers"+i+"'><option value='true'>true</option><option value='false'>false</option></select>";
+                    output+="</br>if false explain why</br>";
+                    output+="<textarea></textarea>";
+                    output+="<button type='button"+i+"' onclick='checkTF("+i+")'>Check</button>"
+                    output+="<div id='TFshow"+i+"'style=' width: 100%; display:flex;' class='answer'></div>"
+                    
+                    
+                    output+="</div>";
+                }
+                document.getElementById('allQuestions').innerHTML=output;
+            }
+            function check(num){
+                if( document.getElementById("answers"+num).value==MCProblems[num].answers[MCProblems[num].correctInd-1]){
+                   document.getElementById("show"+num).innerHTML="correct";
+        
+                    document.getElementById("show"+num).style.backgroundColor='rgb(80,240,80)';
+                }else{
+                    document.getElementById("show"+num).innerHTML="incorrect";
+                    document.getElementById("show"+num).style.backgroundColor='rgb(240,80,80)';
+                }
+            }
+            function checkTF(num){
+                var isTrue=document.getElementById("TFanswers"+num).value=='true';
+                if(isTrue==TFProblems[num].answers){
+                   document.getElementById("TFshow"+num).innerHTML="correct";
+                    if(!isTrue){
+                    document.getElementById("TFshow"+num).innerHTML+="</br>a correct explaination could be <br>"+ TFProblems[num].why+"<br> but your reason may be correct too";
+                    }
+                    document.getElementById("TFshow"+num).style.backgroundColor='rgb(80,240,80)';
+                }else{
+                    document.getElementById("TFshow"+num).innerHTML="incorrect";
+                    document.getElementById("TFshow"+num).style.backgroundColor='rgb(240,80,80)';
+                }
+            }
+            function submit(num){
+                for(var i=0;i<MCProblems.length;i++)
+                if( document.getElementById("answers"+i).value==MCProblems[i].answers[MCProblems[i].correctInd-1]){
+                   document.getElementById("show"+i).innerHTML="correct";
+                    document.getElementById("show"+i).style.backgroundColor='rgb(80,240,80)';
+                }else{
+                    document.getElementById("show"+i).innerHTML="incorrect";
+                    document.getElementById("show"+i).style.backgroundColor='rgb(240,80,80)';
+                }
+            }
+        </script>
+    </head>
+    <body onload="initialize()">
+        <div id='debug'></div>
+        <div id="allQuestions" class='all'></div>
+        <button type='button"+i+"' onclick='submit()'>Submit</button>
+    </body>
+</html>
